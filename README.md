@@ -10,6 +10,7 @@
 [![][codeship img]][codeship]
 [![][dependabot img]][dependabot]
 [![][buddy img]][buddy]
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/Gaurav-Punjabi/checkstyle-lgtm.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Gaurav-Punjabi/checkstyle-lgtm/alerts/)
 
 [![][mavenbadge img]][mavenbadge]
 [![][sonar img]][sonar]
